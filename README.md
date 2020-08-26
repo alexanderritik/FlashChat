@@ -1,8 +1,16 @@
 
 # Flash-Chat
 
+
 ## About
 Flash Chat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook for $22 billion. We will be using a service called Firebase Firestore as a backend database to store and retrieve our messages from the cloud. 
+
+
+<p align="row">
+<img src= "https://github.com/alexanderritik/FlashChat/blob/master/Screenshot%202020-08-25%20at%2012.27.20%20AM.png" width="400" >
+<img src= "https://github.com/alexanderritik/FlashChat/blob/master/Screenshot%202020-08-25%20at%2012.26.51%20AM.png" width="400" >
+</p>
+
 
 ## Thing learnt
 * How to integrate third party libraries in your app using Cocoapods and Swift Package Manager.
